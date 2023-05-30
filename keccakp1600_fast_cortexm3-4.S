@@ -8,7 +8,7 @@
  *  - in-place processing
  *  - lazy rotations for all rounds
  *
- * For more details, see the note at https://eprint.iacr.org/2023/
+ * For more details, see the note at https://eprint.iacr.org/2023/773
  *
  * @author   Alexandre Adomnicai
  *           alexandre@adomnicai.me 
