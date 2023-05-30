@@ -7,7 +7,7 @@
  *  - avoid rotating results from the previous instruction for pipelining
  *  - interleaving memory accesses with ALU operations for pipelining
  *
- * For more details, see the note at https://eprint.iacr.org/2023/
+ * For more details, see the note at https://eprint.iacr.org/2023/773
  *
  * @author   Alexandre Adomnicai
  *           alexandre@adomnicai.me 
