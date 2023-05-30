@@ -3,7 +3,7 @@
 This repository contains optimized assembly implementations of [Keccak-f[1600]](https://keccak.team/keccak.html) on ARMv7-M processors: ARM Cortex-M3, M4 and M7.
 Because it consists of a rework of the code originally offered by the [eXtended Keccak Code Package](https://github.com/XKCP/XKCP), the implementations are based on various optimizations introduced by the Keccak designers in [the following document](https://keccak.team/files/Keccak-implementation-3.2.pdf).
 
-It differentiates between the implementations tailored for the M3 and M4, and the one specifically fine-tuned for the M7. See [the corresponding note](https://eprint.iacr.org/2023/) for more details.
+It differentiates between the implementations tailored for the M3 and M4, and the one specifically fine-tuned for the M7. See [the corresponding note](https://eprint.iacr.org/2023/773) for more details.
 
 ## Cortex-M3 and M4
 For the M3 and M4, two implementations are available.
